@@ -1,0 +1,6 @@
+C:\Users\Faridun\Allif Academy\MySQL\MySQL - Workspace\MySQL - Workspace\bin\Debug\MySQL - Workspace.exe.config
+C:\Users\Faridun\Allif Academy\MySQL\MySQL - Workspace\MySQL - Workspace\bin\Debug\MySQL - Workspace.exe
+C:\Users\Faridun\Allif Academy\MySQL\MySQL - Workspace\MySQL - Workspace\bin\Debug\MySQL - Workspace.pdb
+C:\Users\Faridun\Allif Academy\MySQL\MySQL - Workspace\MySQL - Workspace\obj\Debug\MySQL - Workspace.csprojResolveAssemblyReference.cache
+C:\Users\Faridun\Allif Academy\MySQL\MySQL - Workspace\MySQL - Workspace\obj\Debug\MySQL - Workspace.exe
+C:\Users\Faridun\Allif Academy\MySQL\MySQL - Workspace\MySQL - Workspace\obj\Debug\MySQL - Workspace.pdb

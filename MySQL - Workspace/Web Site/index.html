@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>User Manager</title>
+    <style>
+        body
+        {
+            background-color: ghostwhite;
+        }
+        .user-control{
+            display: block;
+            margin: 10px;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>User Manager</h1>
+    <form action="manager.php" method="post">
+        <input class="user-control" type="text" name="name" id="name" placeholder="Name...">
+        <input class="user-control" type="text" name="surname" id="surname" placeholder="Surname...">
+        <button class="user-control" type="submit">Add User</button>
+    </form>
+</body>
+</html>
